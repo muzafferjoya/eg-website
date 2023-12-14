@@ -1,6 +1,6 @@
 ### EG Website on Shiksha Platform Admin Console (Uses Module Federation)
 
-demouser
+eg-s3-bucket
 
 ## Modules
 
